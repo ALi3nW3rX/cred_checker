@@ -7,7 +7,7 @@
 
 ### Option 1: One-Command Install
 ```bash
-curl -sSL https://your-internal-repo/install.sh | bash
+curl -sSL https://github.com/ALi3nW3rX/cred_checker/install.sh | bash
 ```
 
 ### Option 2: From Shared Drive
