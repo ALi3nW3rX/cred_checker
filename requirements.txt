@@ -1,0 +1,15 @@
+# Cred Checker - Python Dependencies
+# Minimal set of requirements for the tool
+
+# HTTP client with async support and HTTP/2
+httpx>=0.24.0
+
+# Beautiful terminal output and progress bars
+rich>=13.0.0
+
+# Optional but recommended
+# Uncomment if you need these features:
+
+# aiofiles>=23.0.0        # Async file operations (for large file processing)
+# pyyaml>=6.0             # YAML config file support (if adding config.yaml)
+# jinja2>=3.1.0           # HTML templating (already using simple string templates)
